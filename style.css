@@ -1,0 +1,87 @@
+/*!
+ * Start Bootstrap - 1 Col Portfolio (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+footer {
+  margin: 50px 0;
+}
+
+.container {
+	width: 1200px;
+}
+
+.header1 {
+    width: 200px;
+    background: red;
+    float: left;
+}
+
+.header2 {
+    margin-left: 20px;
+}
+
+.personal {
+	vertical-align: top;
+	padding-left: 18pt;
+}
+
+.personnal_header {
+	margin-top: 0;
+	font-family: 'Rubik', sans-serif;
+		font-size: 18pt;
+}
+
+.personnal_text {
+	font-family: 'Rubik', sans-serif;
+	font-size: 12pt;
+}
+
+
+.outerbar {
+	background-color: #686868;
+}
+
+.innerbar {
+	width: 1200px;
+	margin: 0 auto;
+	color: white;
+	padding: 15px;
+	margin-bottom: 20px;
+}
+
+.innertext {
+	margin: 0;
+	font-size: 22px;
+	color: #f9f9f9;
+	font-family: 'Rubik', sans-serif;
+	text-align: center;
+}
+
+.inner_innertext{
+	font-size: 14px;
+	margin-left: 15px;
+	font-family: 'Rubik', sans-serif;
+}
+
+h4 {
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+
+a {
+	color: #bfd7fc;
+}
+
+a:hover {
+	color: white;
+}
+
+hr {
+	margin: 30px 0;
+}
+
+.mugshot {
+	width: 250px;
+}
